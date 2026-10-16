@@ -1,0 +1,6 @@
+{
+  "name": "MessBhojan - Student Mess Discovery & Subscriptions",
+  "description": "India's premier student mess finder and meal subscription platform. Discover verified messes, compare menus and protein content, purchase monthly subscriptions, and redeem digital QR coupons.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
